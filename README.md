@@ -1,11 +1,11 @@
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=260C73&height=150&section=header/>
-<img src="https://capsule-render.vercel.app/api?type=egg&color=260C73&height=150&section=footer/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=260C73&height=150&section=header&text=ReadMe&fontSize=100" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wntjd7892)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 ... 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 하고 있는 프로젝트는...
 </summary>
    <br>
   
@@ -13,3 +13,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 
 </details>
+
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=260C73&height=150&section=footer&text=Finish&fontSize=50" />
