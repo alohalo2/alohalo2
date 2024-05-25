@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=260C73&height=150&section=header&text=ReadMe&fontSize=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=260C73&height=150&section=header&text=ReadMe&fontSize=70"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wntjd7892)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -15,4 +15,4 @@
 </details>
 
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=260C73&height=150&section=footer&text=Finish&fontSize=50"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=260C73&height=150&section=footer&text=Finish&fontSize=50"/>
