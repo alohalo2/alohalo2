@@ -1,5 +1,5 @@
 # ![github cover image](https://github.com/user-attachments/assets/c6c74254-96c3-4f24-a346-53ba5579eb7d)
-LEE JU SUNG 😊
+# LEE JU SUNG 😊
  
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-alohalo2&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
