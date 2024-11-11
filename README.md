@@ -1,6 +1,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=260C73&height=500&section=header&text=ReadMe&fontSize=60"/>
 
+# LEE JU SUNG 😊
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-alohalo2&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wntjd7892)](https://solved.ac/wntjd7892/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alohalo2)](https://github.com/anuraghazra/github-readme-stats)
@@ -9,6 +13,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alohalo2&hide=contribs,prs&show_icons=true&theme=graywhite)
 
+# 💪Skills
+### Platforms & Languages
+
+### Tools
 
 <details>
 <summary>
@@ -21,5 +29,6 @@
 
 </details>
 
+# :mailbox_with_mail: Contacts
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=260C73&height=500&section=footer&text=Finish&fontSize=50"/>
