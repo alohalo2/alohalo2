@@ -5,6 +5,13 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wntjd7892)](https://solved.ac/wntjd7892/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wntjd7892)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wntjd7892)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wntjd7892&hide=contribs,prs&show_icons=true&theme=graywhite)
+
+
 <details>
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 하고 있는 프로젝트는...
