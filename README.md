@@ -1,6 +1,4 @@
-![Title](https://kr.pinterest.com/pin/1618549859794201/)
-
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=13510867625701722" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
+![github cover image](https://github.com/user-attachments/assets/b6e364e4-7cb1-40eb-9187-7ab96de02f5c)
 
 # LEE JU SUNG 😊
 
