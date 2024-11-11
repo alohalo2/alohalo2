@@ -1,4 +1,4 @@
-![Title]([[[https://kr.pinterest.com/pin/1618549859794201/](https://pin.it/5KhmT9UdA)](https://pin.it/5IuLzAsGr)](https://assets.pinterest.com/ext/embed.html?id=13510867625701722))
+![Title](https://kr.pinterest.com/pin/1618549859794201/)
 
 <iframe src="https://assets.pinterest.com/ext/embed.html?id=13510867625701722" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
 
