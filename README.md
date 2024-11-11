@@ -1,5 +1,4 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=260C73&height=500&section=header&text=ReadMe&fontSize=60"/>
+![Title](https://kr.pinterest.com/pin/1618549859794201/)
 
 # LEE JU SUNG 😊
 
@@ -27,5 +26,3 @@
 </details>
 
 # :mailbox_with_mail: Contacts
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=260C73&height=500&section=footer&text=Finish&fontSize=50"/>
