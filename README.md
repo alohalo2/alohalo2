@@ -1,4 +1,4 @@
-![Title](https://kr.pinterest.com/pin/1618549859794201/)
+![Title]([https://kr.pinterest.com/pin/1618549859794201/](https://pin.it/5KhmT9UdA))
 
 # LEE JU SUNG 😊
 
