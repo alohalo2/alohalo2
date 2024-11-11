@@ -1,9 +1,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=260C73&height=500&section=header&text=ReadMe&fontSize=60"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alohalo2)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wntjd7892)](https://solved.ac/wntjd7892/)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alohalo2)](https://solved.ac/wntjd7892/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alohalo2)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alohalo2)](https://github.com/anuraghazra/github-readme-stats)
 
