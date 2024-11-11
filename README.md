@@ -1,4 +1,4 @@
-# LEE JU SUNG 😊![github cover image](https://github.com/user-attachments/assets/b6e364e4-7cb1-40eb-9187-7ab96de02f5c)
+# LEE JU SUNG 😊![github cover image](https://github.com/user-attachments/assets/c6c74254-96c3-4f24-a346-53ba5579eb7d)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-alohalo2&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
