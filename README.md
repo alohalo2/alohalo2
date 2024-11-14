@@ -2,7 +2,7 @@
 
 
 ## :mailbox_with_mail: How to reach me
-- 포트폴리오: https://www.notion.so/13b049c7252c8066afd8fd456e68a8f1?pvs=4
+- 포트폴리오: https://www.notion.so/Portfolio-13b049c7252c8066afd8fd456e68a8f1?pvs=4
 
 - 이력서: https://drive.google.com/file/d/1rzCGQrpOkpOBUbywnnVnAmjLH1hv9E2S/view?usp=sharing
 
