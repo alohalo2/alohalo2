@@ -6,7 +6,7 @@
 
 - 이력서: https://drive.google.com/file/d/1rzCGQrpOkpOBUbywnnVnAmjLH1hv9E2S/view?usp=sharing
 
-- 개발노트: https://seen-reminder-ab4.notion.site/ReadMe-43b694fe47b84d64b0ab0adfc5929233?pvs=4
+- 개발노트: https://seen-reminder-ab4.notion.site/My-Develop-Note-3d3dab5d92f940e9ab73092cac6ffaa0?pvs=4
 
 - 이메일: wntjd7892@naver.com
 
