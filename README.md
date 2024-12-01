@@ -8,7 +8,7 @@
 
 - 개발노트: https://seen-reminder-ab4.notion.site/My-Develop-Note-3d3dab5d92f940e9ab73092cac6ffaa0?pvs=4
 
-- 이메일: wntjd7892@naver.com
+- 이메일: mailto:wntjd7892@naver.com
 
 
 ## 🏅BaekJoon
