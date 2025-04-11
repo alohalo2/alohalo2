@@ -1,5 +1,4 @@
-# 😊 LEE JU SUNG ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-alohalo2&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
+# 😊 LEE JU SUNG 
 
 ## :mailbox_with_mail: How to reach me
 - 포트폴리오 웹 사이트: https://portfolio-web-site-three.vercel.app
