@@ -7,7 +7,7 @@
 
 - 이력서: https://drive.google.com/file/d/1vZgh2owz0LqepI_GYemwr_nTUrzOijNR/view?usp=sharing
 
-- 개발노트: https://seen-reminder-ab4.notion.site/My-Develop-Note-3d3dab5d92f940e9ab73092cac6ffaa0?pvs=4
+- 개발블로그: https://alohalo2.github.io/
 
 - 이메일: [wntjd78922@gmail.com](mailto:wntjd78922@gmail.com)
 
